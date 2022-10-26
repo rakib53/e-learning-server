@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Python",
+    "photoURL": "https://serving.photos.photobox.com/8455416283d7d9163d81e44feb38cf7f4693c51a87c10993706acaa6d653e55687afb5cd.jpg",
+    "description": "Python is widely regarded as a programming language that easy to learn, due to its simple syntax, a large library of standards and toolkits, and integration with other popular programming languages such as C and C++. In fact, its the first language that students learn in the Align program, Gorton says. “You can cover a lot of computer science concepts quickly, and its relatively easy to build on.” It is a popular programming language, especially among startups, and therefore Python skills are in high demand."
+  },
+  {
+    "id": 2,
+    "name": "JavaScript",
+    "photoURL": "https://serving.photos.photobox.com/887957373e49afa6f5e171c359d640a19bdde46f5d316d2bbb03a5a2e37e8b5e14d18fc2.jpg",
+    "description": "JavaScript is the most popular programming language for building interactive websites; “virtually everyone is using it,” Gorton says. When combined with Node.js, programmers can use JavaScript to produce web content on the server before a page is sent to the browser, which can be used to build games and communication applications that run directly in the browser. A wide variety of add-ons extend the functionality of JavaScript as well. "
+  },
+  {
+    "id": 3,
+    "name": "Java",
+    "photoURL": "https://serving.photos.photobox.com/51185537d7fb61be1cac4a803ca795c736f219229892097408e44c768d75168a2d75832f.jpg",
+    "description": "Java is the programming language most commonly associated with the development of client-server applications, which are used by large businesses around the world. Java is designed to be a loosely coupled programming language, meaning that an application written in Java can run on any platform that supports Java. As a result, Java is described as the “write once, run anywhere” programming language."
+  },
+  {
+    "id": 4,
+    "name": "C#",
+    "photoURL": "https://serving.photos.photobox.com/03829168c90d83c434a26d08c4145c4490f6504bc11714a269a28804c82e05172acfc243.jpg",
+    "description": "Microsoft developed C# as a faster and more secure variant of C. It is fully integrated with Microsoft’s .NET software framework, which supports the development of applications for Windows, browser plug-ins, and mobile devices. C# offers shared codebases, a large code library, and a variety of data types."
+  },
+  {
+    "id": 5,
+    "name": "C",
+    "photoURL": "https://i.postimg.cc/VkKHXh48/1200px-C-Programming-Language-svg.png",
+    "description": "Along with Python and Java, C forms a “good foundation” for learning how to program, Gorton says. As one of the first programming languages ever developed, C has served as the foundation for writing more modern languages such as Python, Ruby, and PHP. It is also an easy language to debug, test, and maintain."
+  },
+  {
+    "id": 6,
+    "name": "C++",
+    "photoURL": "https://i.postimg.cc/05CjGdgf/ISO-C-Logo-svg.png",
+    "description": "C++ is an extension of C that works well for programming the systems that run applications, as opposed to the applications themselves. C++ also works well for multi-device and multi-platform systems. Over time, programmers have written a large set of libraries and compilers for C++. Being able to use these utilities effectively is just as important to understanding a programming language as writing code, Gorton says."
+  },
+  {
+    "id": 7,
+    "name": "GO",
+    "photoURL": "https://serving.photos.photobox.com/542388859b74df97baa49f33e34b291406e0e6a51c6d8f4226dfdacd1fe2a8283568a65b.jpg",
+    "description": " Also referred to as Golang, Go was developed by Google to be an efficient, readable, and secure language for system-level programming. It works well for distributed systems, in which systems are located on different networks and need to communicate by sending messages to each other. While it is a relatively new language, Go has a large standards library and extensive documentation."
+  },
+  {
+    "id": 8,
+    "name": "Swift",
+    "photoURL": "https://i.postimg.cc/CMCSTFmL/1-S4-g3kn-Ebuu-E6q-Hy-WIb-NQ.png",
+    "description": "Swift is Apple’s language for developing applications for Mac computers and Apple’s mobile devices, including the iPhone, iPad, and Apple Watch. Like many modern programming languages, Swift has a highly readable syntax, runs code quickly, and can be used for both client-side and server-side development. "
+  },
+  {
+    "id": 9,
+    "name": "PHP",
+    "photoURL": "https://i.postimg.cc/59QQwF4K/images.jpg",
+    "description": "PHP is widely used for server-side web development, when a website frequently requests information from a server. As an older language, PHP benefits from a large ecosystem of users who have produced frameworks, libraries, and automation tools to make the programming language easier to use. PHP code is also easy to debug."
+  }
+]
